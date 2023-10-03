@@ -1,0 +1,25 @@
+* {
+    background-color: darkred;
+}
+
+.imageSelect {
+    display: flex;
+    outline: auto;
+    background-color: #c51414;
+    justify-content: center;
+    align-items: center;
+}
+
+select {
+    background-color: #fff;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 35px;
+    color: #fff;
+}

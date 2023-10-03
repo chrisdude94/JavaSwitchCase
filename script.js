@@ -12,7 +12,7 @@ document.getElementById("imageSelect").addEventListener("change", function () {
 switch (selectedImage) {
 
     case "image1":
-        imageElement.src = "https://images7.alphacoders.com/493/493639.jpg";
+        imageElement.src = "https://www.iamag.co/wp-content/uploads/2015/08/The-Art-Of-Dark-Souls-III-2.jpg";
     break;
 
     case "image2":
@@ -20,7 +20,7 @@ switch (selectedImage) {
     break;
 
     case "image3":
-        imageElement.src = "https://cdn.wallpapersafari.com/21/2/R76wSx.jpg";
+        imageElement.src = "https://www.iamag.co/wp-content/uploads/2015/08/The-Art-Of-Dark-Souls-III-4.jpg";
     break;
 
     case "image4":
@@ -28,7 +28,7 @@ switch (selectedImage) {
     break;
 
     case "image5":
-        imageElement.src = "https://p4.wallpaperbetter.com/wallpaper/493/371/733/dark-souls-iii-4k-dark-souls-3-dark-souls-soul-of-cinder-hd-wallpaper-preview.jpg";
+        imageElement.src = "https://www.iamag.co/wp-content/uploads/2015/08/The-Art-Of-Dark-Souls-III-1.jpg";
     break;
     }
 });
